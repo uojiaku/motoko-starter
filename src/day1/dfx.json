@@ -3,6 +3,10 @@
     "day1": {
       "main": "main.mo",
       "type": "motoko"
+    },
+    "homework": {
+      "main" : "hw.mo",
+      "type" : "motoko"
     }
   },
   "defaults": {
